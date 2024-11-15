@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
+plotly
 yfinance
+fredapi
+requests
 scikit-learn
 matplotlib
 seaborn
-plotly
